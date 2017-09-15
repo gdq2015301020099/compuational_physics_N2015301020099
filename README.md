@@ -1,5 +1,19 @@
 # Homework list 
-[Exercise_03:All levels]()<br>
+[Exercise_03:All levels](<h1>-<em>- coding: utf-8 -</em>-</h1>
+
+<p>&#8221;&#8221;&#8221;
+Created on Wed Sep 13 12:18:06 2017</p>
+
+<p>@author: Administrator
+&#8220;&#8221;&#8220;</p>
+
+<p>print(&#8216;name:gaoduoqi&#8217;)
+print(&#8221;    #####    ####      #####      &#8220;)
+print(&#8221;   #         #   #    #     #     &#8220;)
+print(&#8221;  #   #####  #    #  #       #    &#8220;)
+print(&#8221;   #    # #  #   #    #    ###    &#8220;)
+print(&#8221;     #### #  ####      ##### ###  &#8220;)</p>
+)<br>
 [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]()<br>
 [Exercise_05:Chapter 1 problem 1.6:Population growth]()<br>
 [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon]()<br>
