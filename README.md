@@ -1,5 +1,5 @@
 # Homework list 
-- [x][print your name](https://www.zybuluo.com/mdeditor#885980)<br>
+- [x] [print your name](https://www.zybuluo.com/mdeditor#885980)<br>
 [flyname](https://github.com/gdq2015301020099/compuational_physics_N2015301020099/tree/master/flyname)<br>
 [Exercise_03:All levels]()<br>
 [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]()<br>
