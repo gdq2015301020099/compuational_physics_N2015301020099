@@ -1,0 +1,1 @@
+- [x] [Exercise_03_1.6](https://www.zybuluo.com/2015301020092/note/902918)
