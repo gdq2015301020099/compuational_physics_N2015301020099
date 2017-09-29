@@ -1,11 +1,11 @@
 # Homework list 
-- [x] [print your name](https://www.zybuluo.com/mdeditor#885980)<br>
-- [x] [flyname](https://github.com/gdq2015301020099/compuational_physics_N2015301020099/tree/master/flyname)<br>
-[Exercise_03:All levels]()<br>
-[Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]()<br>
+- [x] [print your name](https://www.zybuluo.com/mdeditor#885980)
+- [x] [flyname](https://github.com/gdq2015301020099/compuational_physics_N2015301020099/tree/master/flyname)
+- [x] [Exercise_03:All levels]()
+[Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]()
 [Exercise_05:Chapter 1 problem 1.6:Population growth]()<br>
 [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon]()<br>
-[Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]()<br>
+[Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]()
 [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]()<br>
 [Exercise_09:Chapter 3 problem 3.16:Strange attractor]()<br>
 [Exercise_10:Chapter 3 problem 3.31:Billliard ball on diverse table]()<br>
