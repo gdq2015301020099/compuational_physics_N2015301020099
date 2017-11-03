@@ -6,15 +6,15 @@ Created on Fri Oct 27 21:41:22 2017
 """
 import pylab as pl
 import math   
-pl.figure(figsize=(7,7)) 
+pl.figure(figsize=(12,7)) 
 
-r=[15]
+r=[25]
 for i in range(len(r)):
     sigma=10
     b=8.0/3.0
     dt=0.0001
-    x=0.
-    y=5.
+    x=1.
+    y=0.
     z=0.
     t=0.
     X=[0]
