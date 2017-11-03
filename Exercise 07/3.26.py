@@ -27,10 +27,9 @@ for i in range(len(r)):
         y=y+a_y*dt
         z=z+a_z*dt
         t=t+dt
-       
         X.append(z)
         Y.append(y)
-    pl.plot(X, Y,'-',label='y versus z r='+str(r[i]))
+    pl.plot(X, Y,'r-',label='y versus z r='+str(r[i]))
     pl.title('z versus y')
     pl.ylabel('y')
     pl.xlabel('z')
