@@ -10,4 +10,4 @@
 - [x] [Exercise_11:Chapter 4 problem 4.16](https://www.zybuluo.com/2015301020092/note/971566)<br>
 [Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]()<br>
 [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s.The SOR algorithm]()<br>
-[Exercise_14:Chapter 6 problem 6.15:The realistic string problem]()<br>
+- [x] [pygame](https://www.zybuluo.com/2015301020092/note/971566)<br>
