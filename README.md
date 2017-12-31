@@ -9,5 +9,5 @@
 - [x] [Exercise_10:Chapter 3 problem 3.31:Billliard ball on diverse table](https://www.zybuluo.com/2015301020092/note/946844)<br>
 - [x] [Exercise_11:Chapter 4 problem 4.16](https://www.zybuluo.com/2015301020092/note/971566)<br>
 - [x] [Exercise_12:Chapter 5 problem 5.3](https://www.zybuluo.com/2015301020092/note/1003733)<br>
-[Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s.The SOR algorithm]()<br>
+- [x] [Exercise_13:Chapter 6 problem 6.12](https://www.zybuluo.com/2015301020092/note/1003799)<br>
 - [x] [pygame](https://www.zybuluo.com/2015301020092/note/1003345)<br>
