@@ -8,6 +8,6 @@
 - [x] [Exercise_07:Chapter 3 problem 3.26:Lorenz modle](https://www.zybuluo.com/2015301020092/note/939123)<br>
 - [x] [Exercise_10:Chapter 3 problem 3.31:Billliard ball on diverse table](https://www.zybuluo.com/2015301020092/note/946844)<br>
 - [x] [Exercise_11:Chapter 4 problem 4.16](https://www.zybuluo.com/2015301020092/note/971566)<br>
-[Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]()<br>
+- [x] [Exercise_11:Chapter 5 problem 5.3](https://www.zybuluo.com/2015301020092/note/971566)<br>
 [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s.The SOR algorithm]()<br>
 - [x] [pygame](https://www.zybuluo.com/2015301020092/note/1003345)<br>
